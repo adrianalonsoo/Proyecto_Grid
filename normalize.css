@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+    font-family: 'Chelsea Market';
+}
+
+:root{
+    --colorFondo: #fff;
+    --colorG:radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    --colorTexto: #121212;
+    --fuente:2.2rem;
+    --p_fuente:1.1rem;
+}
